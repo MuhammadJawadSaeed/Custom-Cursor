@@ -1,6 +1,6 @@
 # 🖱️ Custom Cursor DOM Practice Project
 
-This is an interactive webpage built using **HTML**, **CSS**, and **Vanilla JavaScript**, designed as a creative front-end project to practice **DOM manipulation**, **mouse events**, and **visual effects** using modern web technologies.
+This is an interactive webpage built using **HTML**, **Sass**, and **JavaScript**, designed as a creative front-end project to practice **DOM manipulation**, **mouse events**, and **visual effects** using modern web technologies.
 
 ---
 
@@ -23,8 +23,8 @@ This project serves as a **practical demonstration** of how JavaScript and CSS c
 ## 🛠 Technologies Used
 
 - **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
+- **Sass**
+- **JavaScript**
 - **Flexbox Layout**
 - **DOM Events (`mousemove`)**
 - **CSS Transitions & Effects**
